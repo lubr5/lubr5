@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Lucia
-:house: Swords, Dublin
-:school: Trinity College Dublin
+## Dia Dhuit 👋 is mise Lucia
+:house: Sord, BÁC
+:school: Coláiste na Tríonóide
 :office: Network & Infrastructure Intern at  ![ABBOTT](https://img.shields.io/badge/ABBOTT-008FC7?style=for-the-badge&logo=ABBOTT&logoColor=white)
 
 
-## :inbox_tray:Contact Me!
+## :inbox_tray:Déan teagmháil liom!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciabrown17/)
 [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luciabrown1015@gmail.com)
 [![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.scss.tcd.ie/brownlu)
