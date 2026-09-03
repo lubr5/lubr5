@@ -1,7 +1,8 @@
 ## Dia Dhuit 👋 is mise Lucia
 :house: Sord, BÁC
 :school: Coláiste na Tríonóide
-:office: Network & Infrastructure Intern at  ![ABBOTT](https://img.shields.io/badge/ABBOTT-008FC7?style=for-the-badge&logo=ABBOTT&logoColor=white)
+:office: Ex-Network & Infrastructure Intern @ Abbott
+✨: Seeking 2027 Graduate Opportunities
 
 
 ## :inbox_tray:Déan teagmháil liom!
