@@ -1,8 +1,10 @@
 ## Dia Dhuit 👋 is mise Lucia
 :house: Sord, BÁC
 :school: Coláiste na Tríonóide
-:office: Ex-Network & Infrastructure Intern @ Abbott
-✨: Seeking 2027 Graduate Opportunities
+<br>
+:office: Ex-Network & Infrastructure Intern @ Abbott<br>
+✨ Seeking 2027 Graduate Opportunities<br>
+🖱️ MSc. Dissertation in progress: _"Measuring the Energy Footprint of AI Training & Inference for Network-Intelligence Workloads"_
 
 
 ## :inbox_tray:Déan teagmháil liom!
