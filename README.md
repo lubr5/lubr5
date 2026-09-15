@@ -2,8 +2,7 @@
 :house: Sord, BÁC
 :school: Coláiste na Tríonóide
 <br>
-:office: Ex-Network & Infrastructure Intern @ Abbott<br>
-✨ Seeking 2027 Graduate Opportunities<br>
+:office: IT Professional Development Program @ Abbott<br>
 🖱️ MSc. Dissertation in progress: _"Measuring the Energy Footprint of AI Training & Inference for Network-Intelligence Workloads"_
 
 
