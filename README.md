@@ -1,15 +1,3 @@
-## Dia Dhuit 👋 is mise Lucia
-:house: Sord, BÁC
-:school: Coláiste na Tríonóide
-<br>
-:office: IT Professional Development Program @ Abbott<br>
-🖱️ MSc. Dissertation in progress: _"Measuring the Energy Footprint of AI Training & Inference for Network-Intelligence Workloads"_
-
-
-## :inbox_tray:Déan teagmháil liom!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciabrown17/)
-[![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luciabrown1015@gmail.com)
-[![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.scss.tcd.ie/brownlu)
 
 ## :computer:Languages & Frameworks
 ![Cisco Networks](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=grey) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-3babc3?style=for-the-badge&logo=flask&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white) ![ARMAssembly](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white) ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Microbit](https://img.shields.io/badge/microbit-00ED00?style=for-the-badge&logo=microbit&logoColor=grey) ![NodeJS](https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
